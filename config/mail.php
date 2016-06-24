@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'from' => ['address' => null, 'name' => null],
+    'from' => ['address' => 'alerts@saiba.org.za', 'name' => '46th IAFEI World Congress'],
 
     /*
     |--------------------------------------------------------------------------
