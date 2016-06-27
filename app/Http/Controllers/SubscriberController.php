@@ -32,7 +32,7 @@ class SubscriberController extends Controller
             $m->from('info@iafeiworldcongress.co.za', '46th IAFEI World Congress');
             $m->to($request->email, $request->first_name)->subject('46th IAFEI World Congress');
         });
-
+    
         return 'ok';
     }
 
