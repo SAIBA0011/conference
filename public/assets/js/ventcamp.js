@@ -417,7 +417,7 @@ Ventcamp = {
             event.preventDefault();
 
             $.ajax({
-                url: 'http://www.iafeiworldcongress.com/store_details',
+                url: 'http://conference.dev/store_details',
                 type: 'POST',
                 data: $(form).serialize()
             }).done(function(msg) {
@@ -467,7 +467,7 @@ Ventcamp = {
                 }
 
                 $.ajax({
-                    url: 'http://www.iafeiworldcongress.com/store_details',
+                    url: 'http://conference.dev/store_details',
                     type: 'POST',
                     data: $(form).serialize()
                 }).done(function(msg) {
