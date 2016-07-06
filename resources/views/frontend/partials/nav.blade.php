@@ -17,7 +17,7 @@
                 <div id="navigation" class="navbar-collapse collapse">
                     <ul class="navigation-list pull-left light-text">
                         <li class="navigation-item"><a href="#speakers" class="navigation-link">Speakers</a></li>
-                        {{--<li class="navigation-item"><a href="#schedule" class="navigation-link">Schedule</a></li>--}}
+                        {{--<li class="navigation-item"><a href="#schedule" class="navigation-link">Programme Overview</a></li>--}}
                         <li class="navigation-item"><a href="#prices" class="navigation-link">Prices</a></li>
                         <li class="navigation-item"><a href="#register" class="navigation-link">Professional Body</a></li>
                         <li class="navigation-item"><a href="#sponsors" class="navigation-link">Partners</a></li>

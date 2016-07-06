@@ -18,6 +18,10 @@ class SubscriberController extends Controller
             'last_name' => 'required',
             'email' => 'required|unique:subscribers',
             'phone' => 'required',
+            'member_body' => 'required',
+            'country' => 'required',
+            'body_sa' => 'required',
+            'option' => 'requried'
         ]);
 
         if ($validator->fails()) {

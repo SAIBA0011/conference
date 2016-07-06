@@ -27,8 +27,35 @@
             </fieldset>
 
             <fieldset class="col-md-12">
+                {!! Form::label('member_body', 'Member Body') !!}
+                {!! Form::input('text', 'member_body', null) !!}
+            </fieldset>
+
+            <fieldset class="col-md-12">
+                {!! Form::label('country', 'Country') !!}
+                {!! Form::input('text', 'country', null) !!}
+            </fieldset>
+
+            <fieldset class="col-md-12">
+                {!! Form::label('body_sa', 'Profesional Body South Africa') !!}
+                {!! Form::input('text', 'body_sa', null) !!}
+            </fieldset>
+
+            <fieldset class="col-md-12">
+                {!! Form::label('option', 'Please Select') !!}
+                {!! Form::select('option', [
+                    'option_1' =>'EARLY BIRD NON-IAFEI MEMBER',
+                    'option_2' =>'EARLY BIRD IAFEI MEMBER BODY / PROFESSIONAL BODY MEMBER',
+                    'option_3' =>'GALA DINNER',
+                    'option_4' =>'NON-IAFEI MEMBER & GALA DINNER',
+                    'option_5' =>'IAFEI MEMBER & GALA DINNER',
+                    ], null) !!}
+            </fieldset>
+
+            <fieldset class="col-md-12">
                 {!! Form::submit('Submit', ['class' => 'btn']) !!}
             </fieldset>
+
         {!! Form::close() !!}
         {{--<form class="form registration-form align-center">--}}
 
