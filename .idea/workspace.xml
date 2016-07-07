@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fa17d4d-cb3a-4667-960f-dbf037254edf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php" />
     </list>
     <ignored path="conference.iws" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="494" column="0" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
+            <state relative-caret-position="685">
+              <caret line="466" column="99" selection-start-line="466" selection-start-column="99" selection-end-line="466" selection-end-column="99" />
               <folding />
             </state>
           </provider>
@@ -773,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="494" column="0" selection-start-line="494" selection-start-column="0" selection-end-line="494" selection-end-column="0" />
+        <state relative-caret-position="685">
+          <caret line="466" column="99" selection-start-line="466" selection-start-column="99" selection-end-line="466" selection-end-column="99" />
           <folding />
         </state>
       </provider>

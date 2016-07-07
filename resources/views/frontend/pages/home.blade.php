@@ -128,7 +128,7 @@
 
                             <ul>
                                 <li>
-                                    <strong>Oppertunities</strong>
+                                    <strong>opportunities</strong>
                                     <ul style="list-style: circle">
                                         <li>Opportunity for your CEO / CFO/Investment Advisor to address the
                                             conference
@@ -252,8 +252,8 @@
         <div class="container">
             <span class="icon section-icon icon-faces-users-04"></span>
             <h3>Identified Speakers</h3>
-            <p>The following speakers have been nominated by organising committee <br> to address the 46th
-                IAFEI World Congress. Final speaker list to be included in the official congress programme.
+            <p>The following speakers have been nominated by the organising committee <br> to address the 46th
+                IAFEI World Congress. Final speaker list to be included in the official Congress programme.
             </p>
             <br>
             <div class="col-sm-6 align-left">
@@ -298,7 +298,7 @@
 
     <section class="section align-center overlay bg-cover hands light-text">
         <div class="container">
-            <h3>How you drive change in Africa by being part of this congress:</h3>
+            <h3>How you drive change in Africa by being part of this Congress:</h3>
             <p class="text-alt">1% of all proceeds go to the <a href="http://www.iom.int/" target="_blank">International
                     Organisation for Migration </a> to help change the lives of thousands of refugees. </p>
         </div>
@@ -411,7 +411,7 @@
     <section id="sponsors" class="section align-center">
         <div class="container">
             <span class="icon section-icon icon-documents-bookmarks-12"></span>
-            <h3>organizing bodies</h3>
+            <h3>Organising Bodies</h3>
             <br>
             <div class="sponsors">
                 <div class="sponsor small"><img src="assets/img/sponsors/iafeilogo.jpg" alt=""></div>
@@ -461,8 +461,10 @@
             <br>
 
             <div class="sponsors">
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/1272/g1gjwH.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/4643/XXhlNf.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/75/No99P0.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/5493/xW8Xpg.jpg" alt=""></div>
             </div>
         </div>
         <br>
