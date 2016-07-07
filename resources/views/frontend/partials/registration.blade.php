@@ -44,11 +44,11 @@
             <fieldset class="col-md-12">
                 {!! Form::label('option', 'Please Select') !!}
                 {!! Form::select('option', [
-                    'option_1' =>'EARLY BIRD NON-IAFEI MEMBER',
-                    'option_2' =>'EARLY BIRD IAFEI MEMBER BODY / PROFESSIONAL BODY MEMBER',
-                    'option_3' =>'GALA DINNER',
-                    'option_4' =>'NON-IAFEI MEMBER & GALA DINNER',
-                    'option_5' =>'IAFEI MEMBER & GALA DINNER',
+                    'early-bird-non-iafei-member' =>'EARLY BIRD NON-IAFEI MEMBER',
+                    'early-bird-iafei-member-body-professional-body-member' =>'EARLY BIRD IAFEI MEMBER BODY / PROFESSIONAL BODY MEMBER',
+                    'gala-dinner' =>'GALA DINNER',
+                    'non-iafei-member-gala-dinner' =>'NON-IAFEI MEMBER & GALA DINNER',
+                    'iafei-member-gala-dinner' =>'IAFEI MEMBER & GALA DINNER',
                     ], null) !!}
             </fieldset>
 
