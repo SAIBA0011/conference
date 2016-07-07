@@ -76,13 +76,13 @@
                         <div class="col-sm-6 align-left">
                             <h6>Panel Discussions</h6>
                             <ul>
+                                <li>Global reality: The state of the world 2016 </li>
+                                <li>Global innovation challenges faced by CFO's</li>
                                 <li>Africa reality: The state of the continent in 2016</li>
                                 <li>Africa competitiveness: Who is winning the African race?</li>
                                 <li>The state of Africa and required reforms</li>
                                 <li>The role of the rating agencies: Political meddling of objective assessments</li>
-                                <li>Managing market risk: How can CFOs best manage the current market and currency
-                                    volatility?
-                                </li>
+                                <li>Managing market risk: How can CFOs best manage the current market and currencyvolatility?</li>
                                 <li>Adding value through corporate governance and what can be expected from King IV</li>
                                 <li>The latest developments in Base Erosion and Profit Shifting (BEPS)</li>
                                 <li>The next generation CFO: winning through financial leadership</li>
