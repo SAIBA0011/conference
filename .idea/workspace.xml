@@ -27,8 +27,8 @@
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="466" column="99" selection-start-line="466" selection-start-column="99" selection-end-line="466" selection-end-column="99" />
+            <state relative-caret-position="457">
+              <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -772,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="466" column="99" selection-start-line="466" selection-start-column="99" selection-end-line="466" selection-end-column="99" />
+        <state relative-caret-position="457">
+          <caret line="234" column="0" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
           <folding />
         </state>
       </provider>

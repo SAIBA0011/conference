@@ -176,9 +176,9 @@
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
-                                <span class="count" data-from="0" data-to="3">3</span>
+                                <span class="count" data-from="0" data-to="20000">20 000</span>
 
-                                <p class="title">DAYS</p>
+                                <p class="title">Finance Executives</p>
                             </div>
                         </div>
                     </div>
@@ -212,9 +212,9 @@
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
-                                <span class="count" data-from="0" data-to="20000">20 000</span>
+                                <span class="count" data-from="0" data-to="21">21</span>
 
-                                <p class="title">Finance Executives</p>
+                                <p class="title">Countries</p>
                             </div>
                         </div>
                     </div>
@@ -224,9 +224,9 @@
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
-                                <span class="count" data-from="0" data-to="21">21</span>
+                                <span class="count" data-from="0" data-to="3">3</span>
 
-                                <p class="title">Countries</p>
+                                <p class="title">DAYS</p>
                             </div>
                         </div>
                     </div>
