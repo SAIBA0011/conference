@@ -308,9 +308,9 @@
                         {{--<span class="sale-label uppercase">Hot!</span>--}}
                         <h6 class="package-title">EARLY BIRD NON-IAFEI MEMBER</h6>
                         <div class="package-price">
-                            <span class="currency">R</span>4250 <br>
+                            <span class="currency">R</span>4845 <br>
                             <span style="font-size: 15px">Approximate</span><span
-                                    style="font-size: 15px"> € 260 / $ 285 &star;</span>
+                                    style="font-size: 15px"> € 300 / $ 330 &star;</span>
                         </div>
                         <div class="package-detail">
                             <ul>
@@ -330,9 +330,9 @@
                         <span class="sale-label uppercase">Hot!</span>
                         <h6 class="package-title">EARLY BIRD IAFEI MEMBER BODY / PROFESSIONAL BODY MEMBER</h6>
                         <div class="package-price">
-                            <span class="currency">R</span>3250 <br>
+                            <span class="currency">R</span>3705 <br>
                             <span style="font-size: 15px">Approximate</span><span
-                                    style="font-size: 15px"> € 200 / $ 220 &star;</span>
+                                    style="font-size: 15px"> € 228 / $ 252 &star;</span>
                         </div>
                         <div class="package-detail">
                             <ul>
@@ -347,20 +347,16 @@
 
                 <div class="col-sm-3">
                     <div class="package-column">
-                        <h6 class="package-title">Early bird
-                            Congress, including gala dinner
-                        </h6>
+                        <h6 class="package-title">GALA DINNER</h6>
                         <div class="package-price">
-                            <span class="currency">R</span>4000 <br>
+                            <span class="currency">R</span>855 <br>
                             <span style="font-size: 15px">Approximate</span><span
-                                    style="font-size: 15px"> € 246 / $ 272 &star;</span>
+                                    style="font-size: 15px"> € 52 / $ 58 &star;</span>
                         </div>
                         <div class="package-detail">
                             <ul>
-                                <li><span class="fa fa-check check-icon"></span>Regular Seating</li>
-                                <li><span class="fa fa-check check-icon"></span>Lunch and Breakfast Snacks Included</li>
-                                <li><span class="fa fa-check check-icon"></span>Congress Access</li>
-                                <li><span class="fa fa-check check-icon"></span>Black Tie Dinner & Networking on 9 November 2016</li>
+                                <li><span class="fa fa-check check-icon"></span>Black Tie Dinner & Networking</li>
+                                <li><span class="fa fa-check check-icon"></span>9 November 2016</li>
                             </ul>
                         </div>
                         <a href="#" class="btn btn-lg btn-outline-clr" data-modal-link="email-ticket">BOOK MY SEAT</a>
@@ -371,9 +367,9 @@
                     <div class="package-column">
                         <h6 class="package-title">Tourism Option</h6>
                         <div class="package-price">
-                            <span class="currency">R</span>1250 <br>
+                            <span class="currency">R</span>1425 <br>
                             <span style="font-size: 15px">Approximate</span><span
-                                    style="font-size: 15px"> € 75 / $ 85 &star;</span>
+                                    style="font-size: 15px"> € 97 / $ 85 &star;</span>
                         </div>
                         <div class="package-detail">
                             <ul>
