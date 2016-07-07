@@ -11,18 +11,18 @@
                        <th>Email</th>
                        <th>Phone</th>
                    </thead>
-                   <tbody>
-                    @if(count($subscribers))
-                        @foreach($subscribers as $subscriber)
-                            <tr>
-                                <td>{{ $subscriber->first_name }}</td>
-                                <td>{{ $subscriber->last_name }}</td>
-                                <td>{{ $subscriber->email }}</td>
-                                <td>{{ $subscriber->phone }}</td>
-                            </tr>
-                        @endforeach
-                    @endif
-                   </tbody>
+                   {{--<tbody>--}}
+                    {{--@if(count($subscribers))--}}
+                        {{--@foreach($subscribers as $subscriber)--}}
+                            {{--<tr>--}}
+                                {{--<td>{{ $subscriber->first_name }}</td>--}}
+                                {{--<td>{{ $subscriber->last_name }}</td>--}}
+                                {{--<td>{{ $subscriber->email }}</td>--}}
+                                {{--<td>{{ $subscriber->phone }}</td>--}}
+                            {{--</tr>--}}
+                        {{--@endforeach--}}
+                    {{--@endif--}}
+                   {{--</tbody>--}}
 
                </table>
            </div>

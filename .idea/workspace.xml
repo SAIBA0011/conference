@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fa17d4d-cb3a-4667-960f-dbf037254edf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/frontend/pages/subscribers.blade.php" afterPath="$PROJECT_DIR$/resources/views/frontend/pages/subscribers.blade.php" />
     </list>
     <ignored path="conference.iws" />
@@ -50,9 +49,12 @@
       <file leaf-file-name="subscribers.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/subscribers.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding />
+            <state relative-caret-position="126">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="23" selection-end-line="24" selection-end-column="31" />
+              <folding>
+                <marker date="1467878620168" expanded="true" signature="418:1044" ph="..." />
+                <marker date="1467878620168" expanded="true" signature="582:929" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -766,9 +768,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/subscribers.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="126">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="23" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <marker date="1467878620168" expanded="true" signature="418:1044" ph="..." />
+            <marker date="1467878620168" expanded="true" signature="582:929" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
