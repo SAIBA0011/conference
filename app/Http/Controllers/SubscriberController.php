@@ -21,7 +21,7 @@ class SubscriberController extends Controller
             'member_body' => 'required',
             'country' => 'required',
             'body_sa' => 'required',
-            'option' => 'requried'
+            'option' => 'required'
         ]);
 
         if ($validator->fails()) {
