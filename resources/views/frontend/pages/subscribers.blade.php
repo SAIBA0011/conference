@@ -12,13 +12,15 @@
                        <th>Phone</th>
                    </thead>
                    <tbody>
-                    @foreach($subscribers as $subscriber)
-                        <tr>
-                            <td>{{ $subscriber->first_name }}</td>
-                            <td>{{ $subscriber->last_name }}</td>
-                            <td>{{ $subscriber->email }}</td>
-                            <td>{{ $subscriber->phone }}</td>
-                        </tr>
+                    @if(count($subscribers))
+                        @foreach($subscribers as $subscriber)
+                            <tr>
+                                <td>{{ $subscriber->first_name }}</td>
+                                <td>{{ $subscriber->last_name }}</td>
+                                <td>{{ $subscriber->email }}</td>
+                                <td>{{ $subscriber->phone }}</td>
+                            </tr>
+                        @endforeach
                     @endforeach
                    </tbody>
 
