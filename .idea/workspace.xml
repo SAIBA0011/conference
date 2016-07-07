@@ -46,11 +46,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Subscriber.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Subscriber.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="8" column="84" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="subscribers.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/subscribers.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="654">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="696">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -285,7 +295,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="SubscriberController&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;routes&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/routes.php&#10;registr&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;Subsc&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;home&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/pages/home.blade.php&#10;style&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/css/style.css&#10;homep&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/pages/home.blade.php&#10;nav&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/nav.blade.php&#10;add&#9;FILE&#9;file://C:/laragon/www/conference/database/migrations/2016_07_06_124816_add_member_body_subscribers_table.php&#10;Con&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;add_sub&#9;FILE&#9;file://C:/laragon/www/conference/database/migrations/2016_07_06_124816_add_member_body_subscribers_table.php&#10;reg&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;Subscriber&#9;FILE&#9;file://C:/laragon/www/conference/app/Subscriber.php&#10;homepa&#9;null&#9;null&#10;bottom&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/bottom-footer.blade.php&#10;mail&#9;FILE&#9;file://C:/laragon/www/conference/config/mail.php&#10;subsc&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;mai&#9;FILE&#9;file://C:/laragon/www/conference/config/mail.php&#10;.env&#9;FILE&#9;file://C:/laragon/www/conference/.env&#10;mail.php&#9;FILE&#9;file://C:/laragon/www/conference/config/mail.php&#10;.en&#9;FILE&#9;file://C:/laragon/www/conference/.env&#10;ventcamp&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/ventcamp.js&#10;bo&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/bottom-footer.blade.php&#10;footer&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/footer.blade.php&#10;log&#9;FILE&#9;file://C:/laragon/www/conference/storage/logs/laravel.log&#10;regis&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;slider&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/slider.blade.php&#10;larave.lo&#9;FILE&#9;file://C:/laragon/www/conference/storage/logs/laravel.log&#10;master&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/master.blade.php&#10;create_subs&#9;FILE&#9;file://C:/laragon/www/conference/database/migrations/2016_06_22_090013_create_subscribers_table.php&#10;ro&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/routes.php&#10;ventcamp.js&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/ventcamp.js&#10;validate.js&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/jquery.validate.min.js&#10;modal-bo&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/modal-box.js&#10;SubscriberControlle&#9;null&#9;null&#10;app&#9;FILE&#9;file://C:/laragon/www/conference/config/app.php&#10;style.cs&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/css/style.css&#10;header&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/header.blade.php&#10;composer.json&#9;FILE&#9;file://C:/laragon/www/conference/composer.json&#10;registra&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;re&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;soc&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/social.blade.php&#10;style.css&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/css/style.css&#10;eader&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/header.blade.php&#10;maste&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/master.blade.php&#10;head&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/header.blade.php&#10;PagesCOn&#9;null&#9;null&#10;routes.php&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/routes.php" />
+    <property name="SearchEverywhereHistoryKey" value="Subscriber&#9;FILE&#9;file://C:/laragon/www/conference/app/Subscriber.php&#10;Subsc&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;SubscriberController&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;routes&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/routes.php&#10;registr&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;home&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/pages/home.blade.php&#10;style&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/css/style.css&#10;homep&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/pages/home.blade.php&#10;nav&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/nav.blade.php&#10;add&#9;FILE&#9;file://C:/laragon/www/conference/database/migrations/2016_07_06_124816_add_member_body_subscribers_table.php&#10;Con&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;add_sub&#9;FILE&#9;file://C:/laragon/www/conference/database/migrations/2016_07_06_124816_add_member_body_subscribers_table.php&#10;reg&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;homepa&#9;null&#9;null&#10;bottom&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/bottom-footer.blade.php&#10;mail&#9;FILE&#9;file://C:/laragon/www/conference/config/mail.php&#10;subsc&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/Controllers/SubscriberController.php&#10;mai&#9;FILE&#9;file://C:/laragon/www/conference/config/mail.php&#10;.env&#9;FILE&#9;file://C:/laragon/www/conference/.env&#10;mail.php&#9;FILE&#9;file://C:/laragon/www/conference/config/mail.php&#10;.en&#9;FILE&#9;file://C:/laragon/www/conference/.env&#10;ventcamp&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/ventcamp.js&#10;bo&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/bottom-footer.blade.php&#10;footer&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/footer.blade.php&#10;log&#9;FILE&#9;file://C:/laragon/www/conference/storage/logs/laravel.log&#10;regis&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;slider&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/slider.blade.php&#10;larave.lo&#9;FILE&#9;file://C:/laragon/www/conference/storage/logs/laravel.log&#10;master&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/master.blade.php&#10;create_subs&#9;FILE&#9;file://C:/laragon/www/conference/database/migrations/2016_06_22_090013_create_subscribers_table.php&#10;ro&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/routes.php&#10;ventcamp.js&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/ventcamp.js&#10;validate.js&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/jquery.validate.min.js&#10;modal-bo&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/js/modal-box.js&#10;SubscriberControlle&#9;null&#9;null&#10;app&#9;FILE&#9;file://C:/laragon/www/conference/config/app.php&#10;style.cs&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/css/style.css&#10;header&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/header.blade.php&#10;composer.json&#9;FILE&#9;file://C:/laragon/www/conference/composer.json&#10;registra&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;re&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/registration.blade.php&#10;soc&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/social.blade.php&#10;style.css&#9;FILE&#9;file://C:/laragon/www/conference/public/assets/css/style.css&#10;eader&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/header.blade.php&#10;maste&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/master.blade.php&#10;head&#9;FILE&#9;file://C:/laragon/www/conference/resources/views/frontend/partials/header.blade.php&#10;PagesCOn&#9;null&#9;null&#10;routes.php&#9;FILE&#9;file://C:/laragon/www/conference/app/Http/routes.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -696,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Subscriber.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2016_07_06_124816_add_member_body_subscribers_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
@@ -733,14 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SubscriberController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -763,10 +758,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SubscriberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="8" column="84" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/frontend/pages/subscribers.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="696">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
           <folding />
         </state>
       </provider>

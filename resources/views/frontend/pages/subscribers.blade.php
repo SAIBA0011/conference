@@ -10,6 +10,7 @@
                        <th>Email</th>
                        <th>Phone</th>
                        <th>Country</th>
+                       <th>Member Body</th>
                        <th>Professional body</th>
                        <th>Option</th>
                    </thead>
@@ -21,6 +22,7 @@
                                 <td>{{ $subscriber->email }}</td>
                                 <td>{{ $subscriber->phone }}</td>
                                 <td>{{ $subscriber->country }}</td>
+                                <td>{{ $subscriber->member_body }}</td>
                                 <td>{{ $subscriber->body_sa }}</td>
                                 <td>{{ $subscriber->option }}</td>
                             </tr>
