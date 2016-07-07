@@ -18,6 +18,9 @@
                     <li class="active"><a href="#horizontal_tab1" data-toggle="tab">
                             <h6 class="heading-alt"><span class="fa fa-code"></span> General info</h6>
                         </a></li>
+                    <li><a href="#horizontal_tab4" data-toggle="tab">
+                            <h6 class="heading-alt"><span class="fa fa-users"></span> Delegate Profiles</h6>
+                        </a></li>
                     <li><a href="#horizontal_tab2" data-toggle="tab">
                             <h6 class="heading-alt"><span class="fa fa-list"></span> Topics / Programme</h6>
                         </a></li>
@@ -33,32 +36,39 @@
                         </div>
                         <div class="col-sm-7 align-left">
                             <h6>General Info</h6>
-                            <p>
-                                With Cape Town as the backdrop for the first IAFEI World Congress in Africa, this
-                                two-day international conference for finance executives will not only bring the world to
-                                Africa, but also provide a platform for input and collaboration between Africa and the
-                                rest of the world.
-                            </p>
-                            <p>
-                                The world economy is faced with many challenges. Nation states are faced with shrinking
-                                GDP, pressure on exchange rates and current account deficits, rising unemployment, and
-                                budget deficits. Global companies are seeking new avenues for revenue growth, are
-                                becoming more operationally efficient and are seeking new investment opportunities.
-                            </p>
-                            <p>
-                                The IAFEI World Congress will bring multinational finance executives together in one
-                                room to discuss complex regulatory, managerial and strategic problems that affect local
-                                and global companies and map a pathway to growth.
-                            </p>
-                            <p>
-                                The conference will provide practical knowledge, tactical information and networking
-                                opportunities for CFOs and other senior finance executives.
-                            </p>
-                            <p>
-                                Don’t miss the 46th IAFEI World Congress, hosted in Africa for the first time!
-                            </p>
-
+                            <p>The World Congress for Finance Executives will be hosted in Cape Town from 9th - 11th November 2016. </p>
+                            <p>Global CFOs, Finance Directors, Financial Managers and other finance executives from all continents will gather at the five-star Cape Town International Convention Centre to share knowledge and expertise, reflect on history, assimilate new information and delve into the future of the finance profession. </p>
+                            <p>Cape Town with its beautiful nature, rich history and vast tourist attractions is an ideal setting for finance executives and their families to share three unforgettable days in the southern most tip of Africa.</p>
+                            <p>The Congress program is a balance between policy considerations driving or hindering global and Africa growth and traditional areas of finance executive management.  </p>
                             <a href="#" data-modal-link="email-ticket">Register now</a>
+                        </div>
+                    </div>
+
+                    <div id="horizontal_tab4" class="tab-pane fade align-left">
+                        <h6>Delegate Profiles</h6>
+                        <div class="col-sm-6 align-left">
+                            <ul style="list-style: circle">
+                                <li>Chief Executive Officer</li>
+                                <li>Chief Financial Officer</li>
+                                <li>Budgeting & Planning Manager</li>
+                                <li>Budgeting Analyst</li>
+                                <li>Head of Finance & Planning</li>
+                                <li>Consultant</li>
+                                <li>Director Finance</li>
+                                <li>Finance Controller</li>
+                                <li>General Manager</li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-6 align-left">
+                            <ul style="list-style: circle">
+                                <li>Head of Finance</li>
+                                <li>CFOs of multinational companies</li>
+                                <li>CFOs of listed companies</li>
+                                <li>CFOs of large public companies</li>
+                                <li>Senior financial managers of large medium sized companies</li>
+                                <li>Directors of development banks, finance institutions</li>
+                                <li>Institutional investors.</li>
+                            </ul>
                         </div>
                     </div>
 
@@ -162,7 +172,7 @@
         <div class="container">
 
             <div class="row counters-wrapper">
-                <div class="col-sm-3">
+                <div class="col-sm-2">
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
@@ -174,7 +184,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-2">
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
@@ -186,7 +196,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-2">
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
@@ -198,7 +208,31 @@
                     </div>
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-sm-2">
+                    <div class="counter-block counter-block-no-border">
+                        <div class="counter-box">
+                            <div class="counter-content">
+                                <span class="count" data-from="0" data-to="20000">20 000</span>
+
+                                <p class="title">Finance Executives</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-2">
+                    <div class="counter-block counter-block-no-border">
+                        <div class="counter-box">
+                            <div class="counter-content">
+                                <span class="count" data-from="0" data-to="21">21</span>
+
+                                <p class="title">Countries</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-2">
                     <div class="counter-block counter-block-no-border">
                         <div class="counter-box">
                             <div class="counter-content">
@@ -218,8 +252,9 @@
         <div class="container">
             <span class="icon section-icon icon-faces-users-04"></span>
             <h3>Identified Speakers</h3>
-            <p>The following speakers have been nominated by orginizing commitee to address the 46<sup>th</sup> <br>
-                iaefiewordcongress view the congress programme for the final speaker list</p>
+            <p>The following speakers have been nominated by organising committee <br> to address the 46th
+                IAFEI World Congress. Final speaker list to be included in the official congress programme.
+            </p>
             <br>
             <div class="col-sm-6 align-left">
                 <ul>
@@ -280,7 +315,7 @@
             <div class="row">
 
 
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="package-column">
                         {{--<span class="sale-label uppercase">Hot!</span>--}}
                         <h6 class="package-title">EARLY BIRD NON-IAFEI MEMBER</h6>
@@ -302,7 +337,7 @@
                     `
                 </div>
 
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="package-column special-column">
                         <span class="sale-label uppercase">Hot!</span>
                         <h6 class="package-title">EARLY BIRD IAFEI MEMBER BODY / PROFESSIONAL BODY MEMBER</h6>
@@ -322,7 +357,7 @@
                     </div>
                 </div>
 
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="package-column">
                         <h6 class="package-title">GALA DINNER</h6>
                         <div class="package-price">
@@ -334,6 +369,26 @@
                             <ul>
                                 <li><span class="fa fa-check check-icon"></span>Black Tie Dinner & Networking</li>
                                 <li><span class="fa fa-check check-icon"></span>9 November 2016</li>
+                            </ul>
+                        </div>
+                        <a href="#" class="btn btn-lg btn-outline-clr" data-modal-link="email-ticket">BOOK MY SEAT</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="package-column">
+                        <h6 class="package-title">Tourism Option</h6>
+                        <div class="package-price">
+                            <span class="currency">R</span>1250 <br>
+                            <span style="font-size: 15px">Approximate</span><span
+                                    style="font-size: 15px"> € 75 / $ 85 &star;</span>
+                        </div>
+                        <div class="package-detail">
+                            <ul>
+                                <li><span class="fa fa-check check-icon"></span>Table Mountain</li>
+                                <li><span class="fa fa-check check-icon"></span>Wine lands</li>
+                                <li><span class="fa fa-check check-icon"></span>Robben Island</li>
+                                <li><span class="fa fa-check check-icon"></span>11 November 2016</li>
                             </ul>
                         </div>
                         <a href="#" class="btn btn-lg btn-outline-clr" data-modal-link="email-ticket">BOOK MY SEAT</a>
@@ -356,23 +411,86 @@
     <section id="sponsors" class="section align-center">
         <div class="container">
             <span class="icon section-icon icon-documents-bookmarks-12"></span>
-            <h3>Host body</h3>
+            <h3>organizing bodies</h3>
             <br>
-
             <div class="sponsors">
+                <div class="sponsor big"><img src="assets/img/sponsors/iafeilogo.jpg" alt=""></div>
                 <div class="sponsor big"><img src="https://saiba.org.za/app/assets/img/logo-default.png" alt=""></div>
             </div>
         </div>
-
+        <br>
         <div class="container">
             <span class="icon section-icon icon-documents-bookmarks-12"></span>
             <h3>Some of our partners</h3>
             <br>
 
             <div class="sponsors">
-                <div class="sponsor big"><img src="assets/img/sponsors/iafeilogo.jpg" alt=""></div>
+
                 <div class="sponsor big"><img src="assets/img/sponsors/cima.jpg" alt=""></div>
                 <div class="sponsor big"><img src="assets/img/sponsors/unisa.jpg" alt=""></div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="container">
+            <span class="icon section-icon icon-documents-bookmarks-12"></span>
+            <h3>Sponsors at the 45<sup>th</sup> IAFEI World Congress</h3>
+            <br>
+
+            <div class="sponsors">
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+            </div>
+        </div>
+        <br>
+        <div class="container">
+            <span class="icon section-icon icon-documents-bookmarks-12"></span>
+            <h3>Invited Media Partners</h3>
+            <br>
+
+            <div class="sponsors">
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+            </div>
+        </div>
+        <br>
+        <div class="container">
+            <span class="icon section-icon icon-documents-bookmarks-12"></span>
+            <h3>Global Professional Associations present at the event</h3>
+            <br>
+
+            <div class="sponsors">
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor big"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
             </div>
         </div>
     </section>
