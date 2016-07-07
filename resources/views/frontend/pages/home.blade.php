@@ -5,7 +5,7 @@
         <div class="container">
             <span class="icon section-icon icon-multimedia-12"></span>
             <h3>Africa driving global change</h3>
-            <p class="text-alt">
+            <p>
                 The 46th IAFEI World Congress will bring national and international speakers together in <br> Cape Town
                 to discuss the most critical policy,
                 regulatory and business issues facing CFOs and senior financial executives today.
@@ -128,7 +128,7 @@
 
                             <ul>
                                 <li>
-                                    <strong>opportunities</strong>
+                                    <strong>Opportunities</strong>
                                     <ul style="list-style: circle">
                                         <li>Opportunity for your CEO / CFO/Investment Advisor to address the
                                             conference
@@ -231,18 +231,6 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="col-sm-2">
-                    <div class="counter-block counter-block-no-border">
-                        <div class="counter-box">
-                            <div class="counter-content">
-                                <span class="count" data-from="0" data-to="1">1</span>
-
-                                <p class="title">GALA DINNER</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
 
         </div>
@@ -286,7 +274,7 @@
                     <li>Saiful Haq Manan | State Owned Enterprises PT PPA | Indonesia</li>
                     <li style="color: rgba(198, 53, 56, 1)">Juan Alfredo Ortega | McGraw Hill–Education | Mexico</li>
                     <li>Hiroaki Endo | T. Rowe Price International Ltd. | Japan</li>
-                    <li style="color: rgba(198, 53, 56, 1)">Armand Angeli | Orange | France</li>
+                    <li style="color: rgba(198, 53, 56, 1)">Armand Angeli | DFCG | France</li>
                     <li>Bernd HAEGER | GEFIU | Germany</li>
                     <li style="color: rgba(198, 53, 56, 1)">Xuan Nam TRAN | VCFO | Vietnam</li>
                     <li>Tali YARON-ELDAR | CFO Forum | Israel</li>
@@ -359,16 +347,20 @@
 
                 <div class="col-sm-3">
                     <div class="package-column">
-                        <h6 class="package-title">GALA DINNER</h6>
+                        <h6 class="package-title">Early bird
+                            Congress, including gala dinner
+                        </h6>
                         <div class="package-price">
-                            <span class="currency">R</span>750 <br>
+                            <span class="currency">R</span>4000 <br>
                             <span style="font-size: 15px">Approximate</span><span
-                                    style="font-size: 15px"> € 45 / $ 50 &star;</span>
+                                    style="font-size: 15px"> € 246 / $ 272 &star;</span>
                         </div>
                         <div class="package-detail">
                             <ul>
-                                <li><span class="fa fa-check check-icon"></span>Black Tie Dinner & Networking</li>
-                                <li><span class="fa fa-check check-icon"></span>9 November 2016</li>
+                                <li><span class="fa fa-check check-icon"></span>Regular Seating</li>
+                                <li><span class="fa fa-check check-icon"></span>Lunch and Breakfast Snacks Included</li>
+                                <li><span class="fa fa-check check-icon"></span>Congress Access</li>
+                                <li><span class="fa fa-check check-icon"></span>Black Tie Dinner & Networking on 9 November 2016</li>
                             </ul>
                         </div>
                         <a href="#" class="btn btn-lg btn-outline-clr" data-modal-link="email-ticket">BOOK MY SEAT</a>

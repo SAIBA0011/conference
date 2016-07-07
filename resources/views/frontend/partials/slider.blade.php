@@ -1,7 +1,7 @@
 <section id="hero" class="hero-section bg1 bg-cover window-height light-text">
     <ul class="socials-nav">
-        <li class="socials-nav-item"><a href="#"><span class="fa fa-twitter"></span></a></li>
-        <li class="socials-nav-item"><a href="#"><span class="fa fa-facebook"></span></a></li>
+        <li class="socials-nav-item"><a href="https://twitter.com/IAFEI_cfo" target="_blank"><span class="fa fa-twitter"></span></a></li>
+        <li class="socials-nav-item"><a href="https://www.facebook.com/IAFEI/?fref=ts" target="_blank"><span class="fa fa-facebook"></span></a></li>
         {{--<li class="socials-nav-item"><a href="#"><span class="fa fa-github"></span></a></li>--}}
         {{--<li class="socials-nav-item"><a href="#"><span class="fa fa-vimeo-square"></span></a></li>--}}
         {{--<li class="socials-nav-item"><a href="#"><span class="fa fa-google-plus"></span></a></li>--}}
