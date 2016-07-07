@@ -464,7 +464,7 @@
                 <div class="sponsor small"><img src="http://imageshack.com/a/img921/1272/g1gjwH.jpg" alt=""></div>
                 <div class="sponsor small"><img src="http://imageshack.com/a/img921/4643/XXhlNf.jpg" alt=""></div>
                 <div class="sponsor small"><img src="http://imageshack.com/a/img924/75/No99P0.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://imageshack.com/a/img921/5493/xW8Xpg.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/1907/vNapxV.jpg" alt=""></div>
             </div>
         </div>
         <br>
