@@ -22,7 +22,7 @@
                                 <td>{{ $subscriber->last_name }}</td>
                                 <td>{{ $subscriber->email }}</td>
                                 <td>{{ $subscriber->phone }}</td>
-                                <td>{{ $subscriber->county }}</td>
+                                <td>{{ $subscriber->country }}</td>
                                 <td>{{ $subscriber->body_sa }}</td>
                                 <td>{{ $subscriber->option }}</td>
                             </tr>
