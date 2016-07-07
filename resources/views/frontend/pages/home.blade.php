@@ -472,27 +472,26 @@
             <br>
 
             <div class="sponsors">
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
-                <div class="sponsor small"><img src="http://www.360fashion.net/wp-content/uploads/2012/09/image-placeholder-500x500.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/3441/lRkqI8.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/6869/cY3Odl.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/4517/yT5fUK.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/7120/AT8iFb.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img923/916/ZKaKFb.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img922/1556/GUGpEd.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/4629/ZqiIpb.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/2946/K67b0c.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img923/327/rr8hiY.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/2460/T2zgAz.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img922/6533/RaOqyk.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img922/6533/RaOqyk.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/3538/ie08CB.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/9122/zSZCWx.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img922/3941/Hi6sh1.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img922/4043/FWqAoq.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/4523/qDZpwm.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img923/6148/vV5Epn.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img921/8420/ZKbwjx.jpg" alt=""></div>
+                <div class="sponsor small"><img src="http://imageshack.com/a/img924/1916/iTt9If.jpg" alt=""></div>
             </div>
         </div>
     </section>
