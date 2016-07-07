@@ -10,6 +10,9 @@
                        <th>Last Name</th>
                        <th>Email</th>
                        <th>Phone</th>
+                       <th>Country</th>
+                       <th>Professional body</th>
+                       <th>Option</th>
                    </thead>
                    <tbody>
                     @if(count($subscribers))
@@ -19,6 +22,9 @@
                                 <td>{{ $subscriber->last_name }}</td>
                                 <td>{{ $subscriber->email }}</td>
                                 <td>{{ $subscriber->phone }}</td>
+                                <td>{{ $subscriber->county }}</td>
+                                <td>{{ $subscriber->body_sa }}</td>
+                                <td>{{ $subscriber->option }}</td>
                             </tr>
                         @endforeach
                     @endif
