@@ -1,66 +1,70 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns:v="urn:schemas-microsoft-com:vml">
-<head>
-
-    <!-- Define Charset -->
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <!-- Responsive Meta Tag -->
-    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
-
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
-
-    <title>CFOTalks-Management Control survey</title>
-
-    <style type="text/css">
-
-        body{
+<head><!-- Define Charset --><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><!-- Responsive Meta Tag --><meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css" />
+    <title>46 IAFEI World Congress</title>
+    <style type="text/css">body {
             width: 100%;
-            background-color: #fcfcfc;
-            margin:0;
-            padding:0;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
             -webkit-font-smoothing: antialiased;
-            mso-margin-top-alt:0px; mso-margin-bottom-alt:0px; mso-padding-alt: 0px 0px 0px 0px;
+            mso-margin-top-alt: 0px;
+            mso-margin-bottom-alt: 0px;
+            mso-padding-alt: 0px 0px 0px 0px;
         }
 
-        span.preheader{display: none; font-size: 1px;}
+        p, h1, h2, h3, h4 {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding-top: 0;
+            padding-bottom: 0;
+        }
 
-        html{
+        span.preheader {
+            display: none;
+            font-size: 1px;
+        }
+
+        html {
             width: 100%;
         }
 
-        table{
+        table {
             font-size: 14px;
             border: 0;
             transition: all .5s;
         }
 
-        table td{
+        table td {
             transition: all .5s;
         }
 
-        .action-btn{
+        .action-btn {
             width: 30px;
             position: absolute;
             left: 10px;
             top: 35%;
             z-index: 2000;
         }
-        a{
+
+        a {
             transition: all .5s;
         }
 
-        #promail{
+        #promail {
             list-style: none;
             margin: 0;
             padding: 0;
         }
-        #promail li{
+
+        #promail li {
             position: relative;
             cursor: n-resize;
         }
 
-        .test{
+        .test {
             width: 100%;
             position: relative;
         }
@@ -71,317 +75,335 @@
             right: 2px;
         }
 
-        p {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 14px;
+        #promail .test .icon img {
+            width: 35px !important;
+            height: 27px !important;
         }
-
-        .p {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 14px;
-        }
-
-        ul li {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 14px;
-        }
-
-        table {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 14px;
-        }
-        a {
-            font-weight: bold;
-            color: #DA4940;
-            text-decoration: none;
-        }
-        .text {
-            font-family: Arial;
-        }
-
-        .text {
-            font-size: 14px;
-        }
-        .td {
-            border: 1px solid #e9e9e9;
-            background: #e9e9e9;
-        }
-        .th {
-            background: #999999;
-            /*padding-top: 10px;*/
-            /*padding-bottom: 10px;*/
-            line-height: 50px;
-            text-align: left;
-            padding-left: 10px;
-        }
-        .th > b {
-            color: #ffffff;
-        }
-        .td {
-            padding: 10px;
-        }
-
-        #promail .test .icon img{width: 35px !important; height: 27px !important;}
 
         /* ----------- responsivity ----------- */
-        @media only screen and (max-width: 798px){
-            body[yahoo] .hide-800{display: none !important;}
-            body[yahoo] .container800{width: 100% !important;}
-            body[yahoo] .container800_img{width: 50% !important;}
-            body[yahoo] .section800_img img{width: 100% !important; height: auto !important;}
-            body[yahoo] .half-container800{width: 49% !important;}
+        @media only screen and (max-width: 798px) {
+            body[yahoo] .hide-800 {
+                display: none !important;
+            }
+
+            body[yahoo] .container800 {
+                width: 100% !important;
+            }
+
+            body[yahoo] .container800_img {
+                width: 50% !important;
+            }
+
+            body[yahoo] .section800_img img {
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .half-container800 {
+                width: 49% !important;
+            }
         }
 
-
-        @media only screen and (max-width: 640px){
+        @media only screen and (max-width: 640px) {
 
             /*------ top header ------ */
-            body[yahoo] .main-header{font-size: 25px !important;}
-            body[yahoo] .main-section-header{font-size: 30px !important;}
-            body[yahoo] .show{display: block !important;}
-            body[yahoo] .hide{display: none !important;}
-            body[yahoo] .align-center{text-align: center !important;}
+            body[yahoo] .main-header {
+                font-size: 25px !important;
+            }
+
+            body[yahoo] .main-section-header {
+                font-size: 30px !important;
+            }
+
+            body[yahoo] .show {
+                display: block !important;
+            }
+
+            body[yahoo] .hide {
+                display: none !important;
+            }
+
+            body[yahoo] .align-center {
+                text-align: center !important;
+            }
 
             /*-------- container --------*/
-            body[yahoo] .container590{width: 440px !important;}
-            body[yahoo] .container580{width: 400px !important;}
-            body[yahoo] .container800{width: 440px !important;}
-            body[yahoo] .container800_img{width: 100% !important;}
-            body[yahoo] .section800_img img{width: 100% !important;}
+            body[yahoo] .container590 {
+                width: 440px !important;
+            }
+
+            body[yahoo] .container580 {
+                width: 400px !important;
+            }
+
+            body[yahoo] .container800 {
+                width: 440px !important;
+            }
+
+            body[yahoo] .container800_img {
+                width: 100% !important;
+            }
+
+            body[yahoo] .section800_img img {
+                width: 100% !important;
+            }
 
             /*-------- secions ----------*/
-            body[yahoo] .section-item{width: 440px !important;}
-            body[yahoo] .section-img img{width: 440px !important; height: auto !important;}
-            body[yahoo] .video-img img{width: 210px !important; height: auto !important;}
-            body[yahoo] .gallery-img img{width: 380px !important; height: auto !important;}
-            body[yahoo] .container580-img img{width: 400px !important; height: auto !important;}
+            body[yahoo] .section-item {
+                width: 440px !important;
+            }
+
+            body[yahoo] .section-img img {
+                width: 440px !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .video-img img {
+                width: 210px !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .gallery-img img {
+                width: 380px !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .container580-img img {
+                width: 400px !important;
+                height: auto !important;
+            }
 
         }
 
-        @media only screen and (max-width: 479px){
+        @media only screen and (max-width: 479px) {
             /*------ top header ------ */
-            body[yahoo] .main-header{font-size: 24px !important; line-height: 34px !important;}
-            body[yahoo] .main-header div{line-height: 34px !important;}
-            body[yahoo] .main-section-header{font-size: 23px !important;}
-            body[yahoo] .align-center{text-align: center !important;}
+            body[yahoo] .main-header {
+                font-size: 24px !important;
+                line-height: 34px !important;
+            }
+
+            body[yahoo] .main-header div {
+                line-height: 34px !important;
+            }
+
+            body[yahoo] .main-section-header {
+                font-size: 23px !important;
+            }
+
+            body[yahoo] .align-center {
+                text-align: center !important;
+            }
 
             /*-------- container --------*/
-            body[yahoo] .container590{width: 280px !important;}
-            body[yahoo] .container580{width: 260px !important;}
-            body[yahoo] .container800{width: 100% !important;}
-            body[yahoo] .container800_img{width: 100% !important;}
-            body[yahoo] .section800_img img{width: 100% !important; height: auto !important;}
-            body[yahoo] .half-container800{width: 100% !important;}
+            body[yahoo] .container590 {
+                width: 280px !important;
+            }
+
+            body[yahoo] .container580 {
+                width: 260px !important;
+            }
+
+            body[yahoo] .container800 {
+                width: 100% !important;
+            }
+
+            body[yahoo] .container800_img {
+                width: 100% !important;
+            }
+
+            body[yahoo] .section800_img img {
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .half-container800 {
+                width: 100% !important;
+            }
 
             /*-------- secions ----------*/
-            body[yahoo] .section-item{width: 280px !important;}
-            body[yahoo] .section-img img{width: 280px !important; height: auto !important;}
-            body[yahoo] .video-img img{width: 130px !important; height: auto !important;}
-            body[yahoo] .gallery-img img{width: 280px !important; height: auto !important;}
-            body[yahoo] .container580-img img{width: 240px !important; height: auto !important;}
+            body[yahoo] .section-item {
+                width: 280px !important;
+            }
+
+            body[yahoo] .section-img img {
+                width: 280px !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .video-img img {
+                width: 130px !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .gallery-img img {
+                width: 280px !important;
+                height: auto !important;
+            }
+
+            body[yahoo] .container580-img img {
+                width: 240px !important;
+                height: auto !important;
+            }
 
         }
-
     </style>
 </head>
-
-
-<body yahoo="fix" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<!-- ======= hider section ======= -->
-
-
-<div height="50" style="font-size: 30px; line-height: 30px;"> </div>
-
-
-<table class="main_color" border="0" height="100" width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border-radius: 5px; border: 1px solid #f2f2f2;">
-
-
-
-    <tr><td colspan="2" height="5" style="font-size: 5px; line-height: 5px;"> </td></tr>
-
+<body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0" yahoo="fix"><!-- ======= hider section ======= -->
+<table align="center" bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0" class="container590" height="100" style="border-radius: 5px; border: 1px solid #f2f2f2;" width="600">
+    <tbody>
     <tr>
-        <td width="18"> </td>
-        <td border="0" align="center">
-
-            <table class="container590" border="0" height="35" width="514" align="center" cellpadding="0" cellspacing="0">
-
+        <td colspan="2" height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="18">&nbsp;</td>
+        <td align="center" border="0">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="container590" height="35" width="514">
+                <tbody>
                 <tr>
-                    <td> <a href="#"><img src="http://cfo.org.za/img/logo.png" alt=""></a> </td>
-
+                    <td align="center"><span class="sg-image" data-imagelibrary="%7B%22width%22%3A%22590%22%2C%22height%22%3A0%2C%22alt_text%22%3A%22%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%22%3A%22http%3A//imageshack.com/a/img922/8408/1ZrOi6.jpg%22%2C%22link%22%3A%22%23%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><a href="#"><img alt="" src="http://imageshack.com/a/img922/8408/1ZrOi6.jpg" style="width: 590px;" width="590" /></a></span></td>
                 </tr>
-
+                </tbody>
             </table>
-
         </td>
-        <td width="18"> </td>
+        <td width="18">&nbsp;</td>
     </tr>
-
-    <tr><td colspan="2" height="5" style="font-size: 5px; line-height: 5px;"> </td></tr>
-
+    <tr>
+        <td colspan="2" height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td>
+    </tr>
+    </tbody>
 </table>
-
 <!-- ======= end section ======= -->
 
-<table class="container590" border="0" height="25" width="600" align="center" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="container590" height="25" width="600">
+    <tbody>
     <tr>
-        <td></td>
+        <td>&nbsp;</td>
     </tr>
+    </tbody>
 </table>
+<!-- ======= body section ======= -->
 
-
-
-<table class="main_color" border="0" width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border-radius: 5px; border: 1px solid #f2f2f2;">
-
-    <tr><td colspan="2" height="5" style="font-size: 5px; line-height: 5px;"> </td></tr>
-
+<table align="center" bgcolor="fcfcfc" border="0" cellpadding="0" cellspacing="0" class="container590" style="border-radius: 5px; border: 1px solid #f2f2f2;" width="600">
+    <tbody>
     <tr>
-        <td height="40" width="18"> </td>
-        <td border="0" align="center">
-
-            <!-- start my table -->
-
-            <table class="container590" border="0" width="514" align="center" cellpadding="0" cellspacing="0">
-
-                <!-- start space -->
+        <td colspan="2" height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td>
+    </tr>
+    <tr>
+        <td align="center" border="0"><!-- start my table -->
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="container590" width="514"><!-- start space -->
+                <tbody>
                 <tr>
-                    <td height="40"></td>
+                    <td height="40">&nbsp;</td>
                 </tr>
                 <!-- end space -->
-
-                <tr align="left" style="color: #000; font-size: 18px; font-family: 'Open Sans', Calibri, sans-serif; font-weight: 600; ">
-
+                <tr align="left" style="color: #666666; font-size: 14px; font-family: 'Open Sans', Calibri, sans-serif; font-weight: 400; line-height: 20px;">
                     <td>
-                        Dear [firstname,fallback=Finance Professional],
-                    </td>
+                        <div>Dear {{ $user->first_name}} {{ $user->last_name }}</div>
 
+                        <div>&nbsp;</div>
+
+                        <div>Congratulations, you are now part of the elite group of international finance executives who will attend the 46<sup>th</sup> IAFEI World Congress. It is our privilege and special pleasure to welcome you to this year&rsquo;s event.<br />
+                            <br />
+                            The International Association of Finance Executives Institutes (IAFEI) has selected Cape Town, South Africa for its World Congress 2016. The Mother City&nbsp;is a perfect setting to convene&nbsp;an international gathering of CFOs and senior finance executives.<br />
+                            <br />
+                            Dates: 9 &ndash; 11 November 2016<br />
+                            Venue: Cape Town International&nbsp;Convention Centre<br />
+                            Payment: Once the official registration is up and running, we will send you a link to process payment and issue an invoice.<br />
+                            Activities: Once we send the official registration link, you will also be able to register for family and tourist activities at preferential rates.&nbsp;<br />
+                            <br />
+                            <strong>More information about the Congress:</strong><br />
+                            Finance executives from all continents will gather at the five-star Cape Town International Convention Centre to share knowledge and expertise, reflect on history, assimilate new information and delve into the future of the finance profession.&nbsp;</div>
+
+                        <div><br />
+                            The Congress programme will cover policy considerations driving or hindering global and African growth as well as traditional areas of financial&nbsp;executive management.</div>
+
+                        <div>&nbsp;</div>
+
+                        <div><strong>Day 1</strong><br />
+                            The official programme&nbsp;starts on&nbsp;9<sup>th</sup> November with the Premier of the Western Cape officially opening&nbsp;the&nbsp;Congress followed&nbsp;by the National Minister of Finance delivering the keynote address. After discussing the global competition for resources and considering the effect and role of Africa, the Congress will consider the views of a renowned futurist and a panel of multinational CFOs. They will discuss how the latest technological developments will change the face of Africa in terms of&nbsp;energy, water conservation, carbon reduction, recycling, power transmission, alternative power generation and medicine. Panellists&nbsp;will include the World Bank, CFOs from BRICS and African Development Banks, local and international economists, consultants and futurists.</div>
+
+                        <div><br />
+                            The day will close with panel discussions focusing on: The role of the CFO in modern boards, whether ratings agencies provide objective assessments, the impact and occurrence of cybercrime globally, African competitiveness and the challenges faced by public sector CFOs.</div>
+
+                        <div>&nbsp;</div>
+
+                        <div>The Gala Dinner will be hosted on the evening&nbsp;the 9 November 2016 at the gracious Rotunda, adjoining The Bay Hotel, Camps Bay, Cape Town.</div>
+
+                        <div>&nbsp;</div>
+
+                        <div><strong>Day 2</strong><br />
+                            Day 2 will provide an opportunity for delegates to interact with the various expert IAFEI Committees and international and local CFOs on a variety of technical topics related to key areas affecting the CFO: International Financial Reporting Standards developments, international tax competitiveness, avoidance and BEPs, international treasury developments, international observatory of management controller developments, anti-corruption initiatives and their impact. Invited panellists include finance executives from large Nigerian, Egyptian, Rwandan, and South African companies, IAFEI member bodies, big four firms, large public sector companies, banks and credit agencies.</div>
+
+                        <div><br />
+                            Day 2 will also provide an opportunity for international delegates to consider opportunities for investments, mergers and&nbsp;and acquisitions within Africa and South Africa specifically. This will take the form of a tour of the&nbsp;City of Cape Town business initiatives and opportunities or a roundtable discussion with international legal and accounting firms facilitating business expansion in Africa.</div>
+
+                        <div>&nbsp;</div>
+
+                        <div><strong>Day 3</strong><br />
+                            Day 3 is set aside for tours and excursions in the Western Cape main tourist areas including Table Mountain, Robben Island, Winelands and other areas.<br />
+                            <br />
+                            The Congress also includes a full partner/spouse/family programme.<br />
+                            <br />
+                            The Southern African Institute for Business Accountants (SAIBA) is one of the youngest members of IAFEI and is very honoured to host our sister IAFEI member bodies in Cape Town. Cape Town is second to none as a congress venue and tourist attraction and we invite you to experience true Capetonian and African hospitality.<br />
+                            <br />
+                            See you in Cape Town,&nbsp;9 &ndash; 11 November 2016.<br />
+                            <br />
+                            Best regards<br />
+                            Nicolaas van Wyk</div>
+
+                        <div><br />
+                            SAIBA CEO and official host for the 46<sup>th</sup> IAFEI World Congress</div>
+
+                        <div>&nbsp;</div>
+
+                        <div>&nbsp;</div>
+
+                        <div><strong>Partners</strong></div>
+
+                        <div>
+                            <hr /></div>
+
+                        <div><span class="sg-image" data-imagelibrary="%7B%22width%22%3A%22100%22%2C%22height%22%3A%22100%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%22%3A%22http%3A//imageshack.com/a/img922/2232/01ED8L.jpg%22%2C%22alt_text%22%3A%22%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><img height="100" src="http://imageshack.com/a/img922/2232/01ED8L.jpg" style="width: 100px; height: 100px;" width="100" /></span><span class="sg-image" data-imagelibrary="%7B%22width%22%3A%22100%22%2C%22height%22%3A%22100%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%22%3A%22http%3A//imageshack.com/a/img921/1167/gtAVCV.jpg%22%2C%22alt_text%22%3A%22%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><img height="100" src="http://imageshack.com/a/img921/1167/gtAVCV.jpg" style="width: 100px; height: 100px;" width="100" /></span><span class="sg-image" data-imagelibrary="%7B%22width%22%3A%22100%22%2C%22height%22%3A%22100%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%22%3A%22http%3A//imageshack.com/a/img923/4358/PRUV4U.jpg%22%2C%22alt_text%22%3A%22%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><img height="100" src="http://imageshack.com/a/img923/4358/PRUV4U.jpg" style="width: 100px; height: 100px;" width="100" /></span></div>
+
+                        <div>&nbsp;</div>
+
+                        <div><strong>Host body</strong></div>
+
+                        <div>
+                            <hr /></div>
+
+                        <div><span class="sg-image" data-imagelibrary="%7B%22width%22%3A%22150%22%2C%22height%22%3A%2259%22%2C%22alignment%22%3A%22%22%2C%22border%22%3A0%2C%22src%22%3A%22https%3A//saiba.org.za/app/assets/img/logo-default.png%22%2C%22alt_text%22%3A%22%22%2C%22link%22%3A%22%22%2C%22classes%22%3A%7B%22sg-image%22%3A1%7D%7D"><img height="59" src="https://saiba.org.za/app/assets/img/logo-default.png" style="width: 150px; height: 59px;" width="150" /></span></div>
+
+                        <div>&nbsp;</div>
+
+                        <div>&nbsp;</div>
+                    </td>
                 </tr>
                 <!-- start space -->
                 <tr>
-                    <td height="15"></td>
+                    <td height="40">&nbsp;</td>
                 </tr>
                 <!-- end space -->
-
-                <tr align="left" style=" color: #000; font-size: 12px; font-family: 'Open Sans', Calibri, sans-serif; font-weight: 400; line-height: 20px;">
-
-                    <td>
-
-                        <!-- Copy -->
-                        <p>
-                            You are invited to join us for the upcoming CFOTalks event, hosted on 25 May 2016.
-                        </p>
-
-                        <p>
-                            Celebrating Africa Day, which commemorates the founding of the African Union, on this day in 1963, CFOTalks will highlight the theme of Expansion into Africa for its third conversation.
-                        </p>
-
-                        <p>
-                            <b>Join speakers and panellists including: </b>
-                        </p>
-
-                        <ul>
-                            <li>NEPAD representative</li>
-                            <li>African Development Bank representative</li>
-                            <li>Mike Benfield, Group CFO, Macsteel Service Centres SA</li>
-                            <li>Plus other CFOs from leading organisations, to discuss and debate opportunities for South African companies to do business in other African countries, plus the pitfalls to avoid.</li>
-                        </ul>
-
-                        <p>
-                            <b>On the agenda will be:</b>
-                        </p>
-
-                        <ul>
-                            <li>how to mitigate the risk of corruption,</li>
-                            <li>what can be learned from the recent failures of South African businesses,</li>
-                            <li>expanding into Africa and an analysis of what has changed in the major African economies in the last few years that will impact any business wanting to establish itself in Africa.</li>
-                        </ul>
-
-                        <p>
-                            This session will take place in the morning, so join us for breakfast and engage with your peers on this highly relevant topic, as we also recognise and celebrate the progress that has been made towards African unity.
-                        </p>
-
-                        <p><b>DATE & VENUE </b></p>
-
-                        <p>
-                            Venue: UNISA Graduate School of Business Leadership, Midrand <br />
-                            Date: 25 May 2016 <br />
-                            Time: 07:00 for 07:30 – 10:00 <br />
-                            Dress code: Smart casual
-                        </p>
-
-                        <table width="500" align="center" border="0" cellpadding="0" cellspacing="0" style="border-radius: 5px;" bgcolor="#425563">
-
-                            <tbody>
-                            <tr>
-                                <td height="10"></td>
-                            </tr>
-
-                            <tr>
-                                <td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 14px; font-weight: 600; color: #ffffff; line-height: 24px;">
-                                    <a href="https://cfo.org.za/cfo_talks/expansion_into_africa/" style="color: #ffffff; text-decoration: none;">Attend Expansion into Africa</a>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td height="10"></td>
-                            </tr>
-
-                            </tbody>
-                        </table>
-                        <!-- Copy End -->
-
-                        <table style="width: 100%" width="100%">
-                            <tr>
-                                <td>
-                                    <img style="width: 120px;" src="https://upload.wikimedia.org/wikipedia/en/f/f1/Saiba_logo.jpg">
-                                </td>
-                                <td>
-                                    <img style="width: 120px;" src="http://www.nlaaccountancycentre.com/sites/all/themes/nla/images/cima_logo.jpg">
-                                </td>
-                                <td>
-                                    <img style="width: 120px;" src="https://cfo.org.za/img/cqs.jpg">
-                                </td>
-                                <td>
-                                    <img style="width: 120px;" src="https://www.cefpro.com/wp-content/uploads/2015/07/IAFEI-150x100-150x100.png">
-                                </td>
-                            </tr>
-                        </table>
-
-                        <table width="100%" style="width: 100%">
-                            <tr>
-                                <td style="text-align: center;" align="center">
-                                    <p>
-                                        <unsubscribe>unsubscribe</unsubscribe>
-                                    </p>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
+                </tbody>
             </table>
-            <!-- end bouton -->
-            <!-- start space -->
-        </td></tr><tr>
-        <td height="10"></td>
+        </td>
+        <td width="18">&nbsp;</td>
     </tr>
-    <!-- end space -->
-
-
-    <!-- end my table -->
-
-
-
+    <tr>
+        <td colspan="2" height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td>
+    </tr>
+    </tbody>
 </table>
+<!-- ======= end section ======= --><!-- ======= start footer ====== -->
 
-
-<td width="18"> </td>
-
-
-<tr><td colspan="2" height="5" style="font-size: 5px; line-height: 5px;"> </td></tr>
-
-
-
-<!-- ======= end section ======= -->
-<div height="50" style="font-size: 30px; line-height: 30px;"> </div>
+<table align="center" bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0" class="container590" height="75" width="600">
+    <tbody>
+    <tr>
+        <td align="center" style="color:#c6c6c6; display: block; text-decoration: none; outline: none; border: none;font-size: 14px; font-family: 'Open Sans', Calibri, sans-serif; font-weight: 400;">&nbsp;
+            <p>&copy; 2016 46th IAFEI World Congress. All Rights Reserved.</p>
+        </td>
+    </tr>
+    </tbody>
+</table>
 </body>
 </html>

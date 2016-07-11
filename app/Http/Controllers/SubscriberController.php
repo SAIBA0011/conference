@@ -32,10 +32,10 @@ class SubscriberController extends Controller
 
         Subscriber::create($request->all());
 
-//        Mail::send('emails.thank_you', ['user' => $request], function ($m) use ($request) {
-//            $m->from('info@iafeiworldcongress.co.za', '46th IAFEI World Congress');
-//            $m->to($request->email, $request->first_name)->subject('46th IAFEI World Congress');
-//        });
+        Mail::send('emails.thank_you', ['user' => $request], function ($m) use ($request) {
+            $m->from('info@iafeiworldcongress.co.za', '46th IAFEI World Congress');
+            $m->to($request->email, $request->first_name)->subject('46th IAFEI World Congress');
+        });
     
         return 'ok';
     }
